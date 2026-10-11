@@ -1,0 +1,10 @@
+# 認証情報・環境変数
+.env
+.env.*
+*.secret
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
